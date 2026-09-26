@@ -1,3 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+
 numpy
 scipy
 opencv-python
@@ -5,9 +8,6 @@ Pillow
 matplotlib
 tqdm
 pyyaml
-
-einops
-terminaltables
 
 pycocotools
 nuscenes-devkit
